@@ -1,2 +1,1 @@
-# Gurren
-TTGL
+Tengen Toppa Gurren Laggan
